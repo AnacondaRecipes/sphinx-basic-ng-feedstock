@@ -1,5 +1,5 @@
 {% set name = "sphinx-basic-ng" %}
-{% set version = "1.0.0b2" %}
+{% set version = "1.0.0beta2" %}
 
 package:
   name: {{ name|lower }}
